@@ -55,6 +55,8 @@ ___
 ## Dashboard Screenshots
 ___
 (Insert key dashboard screenshots here)
-<img width="617" alt="Screenshot 3" src="https://github.com/user-attachments/assets/7241a656-a098-4b3e-ada9-34466c727c84">
-<img width="580" alt="screen short 1" src="https://github.com/user-attachments/assets/7a266725-ef36-4122-b947-7a191b4a4633">
-<img width="619" alt="Screenshot 2" src="https://github.com/user-attachments/assets/8880f2f6-c43a-404c-a1d9-43fd5e56c955">
+
+<img width="574" alt="Topline Performance" src="https://github.com/user-attachments/assets/22352b27-638d-4b9c-be91-70f0034912e2">
+<img width="574" alt="Customer's Details" src="https://github.com/user-attachments/assets/7525ec4c-0643-4e29-840c-edce7c58e057">
+<img width="574" alt="key Metrics" src="https://github.com/user-attachments/assets/d2ba8bae-f68d-487b-a726-033f43c9697c">
+
